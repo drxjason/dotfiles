@@ -1,0 +1,11 @@
+.DS_STORE
+.env
+
+# i use zsh
+.bash*
+
+# nothing particularly interesting in .config, yet
+.config
+
+.lesshst
+
